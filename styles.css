@@ -1,0 +1,53 @@
+/*General Stuff*/
+body {
+	font-size: 14px;
+}
+
+tbody > tr > th {
+	font-weight: 400;
+}
+
+.container {
+    margin-right: 0px;
+    margin-left: 0px;
+    max-width: none;
+}
+
+/*Table Stuff*/
+.table td, .table th {
+    padding: .5rem;
+}
+
+.table-terciary, .table-terciary>td, .table-terciary>th {
+    background-color: #f8f9fa;
+}
+
+/*Form Stuff*/
+.form-control{
+	padding: .25rem;
+	font-size: 14px;
+}
+
+.input-group-text {
+	padding: .25rem;
+	font-size: 14px;
+	background-color: #f8f9fa;
+}
+
+/*Id Proof*/
+
+/*#utilidad-neta-1{
+	background-color: green;
+}
+
+#utilidad-neta-2{
+	background-color: green;
+}
+
+#utilidad-neta-3{
+	background-color: green;
+}
+
+#utilidad-neta-4{
+	background-color: green;
+}*/
